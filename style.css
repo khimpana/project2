@@ -1,0 +1,16 @@
+.navbar{
+    height:50px;
+    background-color: aqua;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:30px;
+    margin:20px;
+}
+.position-relative img{
+    height:300px;
+    width:300px;
+
+}
